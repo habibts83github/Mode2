@@ -1,0 +1,22 @@
+body {
+  background-color: #ffeaa7;
+  min-height: 100vh;
+  padding: 1rem;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+}
+.nav-links {
+  flex-direction: row-reverse;
+
+}
+
+  /* 
+  
+  
+  
+  align-items: center;
+  color: hsl(198, 1%, 29%);
+  font-family: "Architects Daughter";
+  text-align: center;
+  font-size: 130%;  */
